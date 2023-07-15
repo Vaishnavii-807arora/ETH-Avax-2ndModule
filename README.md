@@ -10,13 +10,15 @@ npm: The package manager for Node.js, used for installing project dependencies.
 ## Getting Started
 1. Clone the repository to your local machine:
 
-```git clone https://github.com/yourusername/ether-transaction-dapp.git
+```
+git clone https://github.com/yourusername/ether-transaction-dapp.git
 cd ether-transaction-dapp
 ```
 
 2. Install the dependencies:
 
-```npm install
+```
+npm install
 ```
 
 3. Compile and Deploy the Smart Contract:
@@ -24,12 +26,14 @@ Before running the DApp, you need to deploy the Transactions smart contract to a
 
 4. Configure the Frontend:
 Open the index.html file in the root of the project and modify the Address variable inside the connectContract function with the deployed smart contract address.
-```const Address = "0xa55a60B0Ca597792ce1A24ce14eEfADA9f0fE780"; // Replace this with the deployed contract address
+```
+const Address = "0xa55a60B0Ca597792ce1A24ce14eEfADA9f0fE780"; // Replace this with the deployed contract address
 ```
 
 5. Start the DApp Server:
 Run the following command to start the DApp server:
-```node app.js
+```
+node app.js
 ```
 
 ### Access the DApp:
