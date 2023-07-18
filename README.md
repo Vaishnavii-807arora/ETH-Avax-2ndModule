@@ -54,7 +54,6 @@ Open your web browser and navigate to 'http://localhost:5000' to access the DApp
 
 ## License
 This contract is licensed under the MIT License. SPDX-License-Identifier: MIT. loom video link
-https://www.loom.com/share/86563c37661d43f9a14568ad9b9e98ad
 
 ## Author
 Vaishnavi Arora
